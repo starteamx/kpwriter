@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "长文/Linux/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2025-04-06T00:35:51.671Z",
+      "total": 0,
+      "drafts": {
+        "长文/Linux/Index.md": {
+          "total": 0,
+          "scenes": {
+            "sdff": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-04-04T16:01:21.634Z",
+      "total": 0,
+      "drafts": {
+        "长文/Java.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "长文/Linux/Index.md": {
+          "total": 0,
+          "scenes": {
+            "111": 0,
+            "1111": 0,
+            "sdff": 0
+          }
+        },
+        "长文/1/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-04-04T15:37:58.277Z",
+      "total": 2,
+      "drafts": {
+        "长文/Java.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "长文/Linux/Index.md": {
+          "total": 2,
+          "scenes": {
+            "111": 0,
+            "1111": 2,
+            "sdff": 0
+          }
+        },
+        "长文/1/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

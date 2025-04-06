@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "919ec75c19606d20",
+    "type": "split",
+    "children": [
+      {
+        "id": "af1c53c93014f299",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78c7bde1e06e7485",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "082a9cd6b2573177",
+    "type": "split",
+    "children": [
+      {
+        "id": "750fcbde83d6d6a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e86f65faf2215ad4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9ce171b97ba1d130",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2739ef28a5d5ad43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "c5766dd133897b17",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af3494a08417543a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bce42d85413edd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7504ba9979a71914",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "3cdc6cc17cc26404",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "ebb8152e607a358a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "83d5fc2feac7f3d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "0bc68fc172a6cc7a",
+            "type": "leaf",
+            "state": {
+              "type": "note-preview",
+              "state": {},
+              "icon": "clipboard-paste",
+              "title": "笔记预览"
+            }
+          },
+          {
+            "id": "3d8c6edb4dc0ed42",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 464.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "lineage:Toggle Lineage view": false,
+      "note-to-mp:复制到公众号": false,
+      "templater-obsidian:Templater": false,
+      "attachment-uploader:上传附件": false,
+      "cmdr:Typewriter Scroll: Toggle On/Off": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3d8c6edb4dc0ed42",
+  "lastOpenFiles": [
+    "知识库文档.md",
+    "未命名.canvas",
+    "Users/guanrunbai/Downloads/6c6515466de37629f9b67a959c6c8ed4.jpeg.md",
+    "Users/guanrunbai/Downloads",
+    "Users/guanrunbai",
+    "Users",
+    "6c6515466de37629f9b67a959c6c8ed5 1.jpeg",
+    "6c6515466de37629f9b67a959c6c8ed5.jpeg",
+    "长文/Java.md",
+    "长文/Linux/未命名.md",
+    "长文/Linux/sdff.md",
+    "长文/1/Index.md",
+    "长文/1",
+    "长文/Linux/1111.md",
+    "长文/Linux/Index.md",
+    "长文/Linux/111.md",
+    "未命名",
+    "长文/Linux",
+    "长文",
+    "未命名 1.canvas",
+    "欢迎.md"
+  ]
+}
